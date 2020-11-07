@@ -1,2 +1,3 @@
 # leaflet_challenge
-Week 17 Leaflet Mapping Homeowkr
+UofM Data Visualization Bootcamp
+Week 17 Leaflet Mapping Homeowork
